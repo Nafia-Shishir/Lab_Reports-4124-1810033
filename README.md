@@ -3,7 +3,7 @@
 ## Course Name: Digital Signal Processing Sessional
 
 ### Submitted to:
-**Hafsa Binte Kibria**
+**Hafsa Binte Kibria,**
 **Lecturer,**
 **Dept. of ECE**                                                                                                     
 **RUET**
