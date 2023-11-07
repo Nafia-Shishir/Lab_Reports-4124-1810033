@@ -137,7 +137,7 @@ ones(1,1)];
 
 
 ### Output 1
-<img width="367" alt="Output1" src="https://github.com/Nafia-Shishir/Lab_Reports-4124-1810033/assets/68279387/9571d181-f4ab-4f1b-a5dd-a591fb729669">
+<img width="367" alt="Output1" src="https://github.com/Nafia-Shishir/Lab_Reports-4124-1810033/blob/master/Lab1/Output1.png">
 
 ### Output 2
 <img width="391" alt="Output2" src="https://github.com/Nafia-Shishir/Lab_Reports-4124-1810033/assets/68279387/0a32b19b-c039-4374-9608-4888fe417463">
